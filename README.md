@@ -1,7 +1,5 @@
 # API REST con PHP
 
-====================
-
 ![LOGO API | PHP API REST](./images/php-apirest.webp)
 
 ## Descripción
@@ -59,3 +57,8 @@ Esta API REST utiliza PHP puro para gestionar operaciones CRUD sobre pedidos de 
 - `nombre`: Nombre del cliente.
 - `apellido`: Apellido del cliente.
 - `email`: Correo electrónico del cliente.
+
+++------------------++
+| Pusho.Devs | Coder |
++--------------------+
+pushodevs@gmail.com | https://github.com/PushoDev
